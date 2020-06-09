@@ -1,6 +1,6 @@
 package ebuchayaGeometriya;
 import java.util.Arrays;
-public class EbaniyStart { //start
+public class EbaniyStart {
     public static void main(String[] args){
 
         Shape x = new Ball(3,2);
